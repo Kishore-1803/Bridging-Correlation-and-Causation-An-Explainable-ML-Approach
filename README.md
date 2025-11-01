@@ -17,7 +17,7 @@ An machine learning project that predicts using both traditional and **causal-in
 ---
 ## Key Results
 
-- **Top Causal Driver:** Smoking increases insurance costs by ~$23,800, making it the most influential factor.
+- **Top Causal Driver:** Smoking increases insurance costs by ~$23,800, making it the most influential factor (From Dataset I used).
 - **Model Performance:**
   - **Causal-Informed Gradient Boosting (GB):**
     - **R² ≈ 0.93**

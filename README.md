@@ -2,7 +2,7 @@
 
 ## Overview
 
-An machine learning project that predicts insurance costs using both traditional and **causal-informed** modeling approaches. The project emphasizes **explainability** and **trust**, leveraging causal inference, SHAP analysis, and interactive visualizations to help users understand not just the predictions, but the reasons behind them.
+An machine learning project that predicts using both traditional and **causal-informed** modeling approaches. The project emphasizes **explainability** and **trust**, leveraging causal inference, SHAP analysis, and interactive visualizations to help users understand not just the predictions, but the reasons behind them.
 
 ---
 
@@ -31,7 +31,7 @@ An machine learning project that predicts insurance costs using both traditional
 ---
 ## Example Insights
 
-- **Quitting smoking** or **reducing BMI** can significantly lower predicted insurance costs.
+- **Quitting smoking** or **reducing BMI** can significantly lower predicted insurance costs (From Dataset I used).
 
 ---
 

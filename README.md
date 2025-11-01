@@ -13,7 +13,6 @@ An machine learning project that predicts using both traditional and **causal-in
 - **Causal-Informed Modeling:** Incorporates causal effects into Ridge and Gradient Boosting models for improved interpretability.
 - **Explainability:** SHAP analysis and interactive dashboards for transparent, business-friendly insights.
 - **What-If Analysis:** Simulate lifestyle changes and see their impact on insurance costs.
-- **Deployment Ready:** Model can be served via FastAPI for real-world integration.
 
 ---
 ## Key Results
